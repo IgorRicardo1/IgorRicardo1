@@ -18,7 +18,7 @@
 
 ### 🛠️ Tecnologias & Ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,php,python,typescript,reactnative,java,spring,mysql,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,php,python,typescript,react,java,spring,mysql,git)](https://skillicons.dev)
 
 ---
 
